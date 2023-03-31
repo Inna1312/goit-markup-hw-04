@@ -121,7 +121,8 @@ color: #434455;
 
 /**-----------------------HERO------------------------*/
 .hero {
-
+ max-width: 1440px;
+ margin: 0 auto;
  background: #2E2F42;
  background-image:var(--bg-gradient), url(../images/hero-bg.jpg);
  background-repeat: no-repeat;
@@ -129,6 +130,7 @@ color: #434455;
  background-size: cover;
  padding-top: 188px;
  padding-bottom: 188px;
+
 
 
 }
